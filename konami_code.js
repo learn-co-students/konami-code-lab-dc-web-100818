@@ -19,7 +19,7 @@ function init() {
      if (key === codes[index]) {
        index++;
        if (index === codes.length) {
-         alert("Yay");
+         alert("99 lives!");
        }
      } else {
        index = 0;
